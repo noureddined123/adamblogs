@@ -4,6 +4,7 @@ title: Short Intro into Fitness
 slug: /short-intro-into-fitness
 date: 2022-08-08 11:54
 description: Short introduction into fitness.
+featuredImage: /assets/fitness.jpg
 ---
 # Actionable tips for incorporating fitness in everyday life 
 
