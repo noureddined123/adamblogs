@@ -6,6 +6,7 @@ date: 2022-02-15 12:04
 description: Small group training is an opportunity for people to experience the
   benefits of creativity and motivation of a trainer while spending more time
   with a particular trainer.
+featuredImage: /assets/small-group-training.jpg
 ---
 # A future for fitness professionals small group training
 
