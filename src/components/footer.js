@@ -12,11 +12,8 @@ const Footer = () => (
   >
     <div className="container">
       <p>
-        Adamblogs.nl{" "}
-        <span className="icon -love">
-          <RiHeart2Line />
-        </span>{" "}
-        by <Link to="/">adamblogs.nl</Link>
+        Amsterdam Blogs {" "}
+        | <Link to="/">adamblogs.nl</Link>
       </p>
     </div>
   </footer>
