@@ -6,6 +6,7 @@ date: 2022-10-10 11:43
 description: Amsterdam is a city of a lot of different sports. In the last years
   we have seen that personal training is high demanded in the busy city of
   Amsterdam.
+featuredImage: /assets/personal-trainer.jpg
 ---
 ## What is Personal Training?
 
