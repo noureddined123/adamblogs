@@ -1,9 +1,6 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Blogs aanmelden?
 ---
-
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
-
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+Wij zijn op zoek naar hobby bloggers die graag hun blogs willen plaatsen op onze website. Heeft u een unieke blog geschreven of lijkt het u leuk om een blog te schrijven, laat het ons dan weten. Een voorwaarde is onder andere wel dat het gerelateerd moet zijn aan Amsterdam. Denkt u dat u de ideale blog heeft? Vul dan onderstaand contactformulier in en wij nemen dan contact met u op.
