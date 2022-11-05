@@ -5,6 +5,7 @@ slug: /start-your-crossfit-regime-today
 date: 2022-11-05 11:50
 description: CrossFit is becoming more and more popular around the world. Lets
   deep dive into what it is and how it can help to achieve your goals.
+featuredImage: /assets/crossfit.jpg
 ---
 # Start Your CrossFit Regime Today: Stronger, Healthier, Satisfied
 
