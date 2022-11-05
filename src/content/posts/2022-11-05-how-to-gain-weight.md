@@ -5,6 +5,7 @@ slug: /how-to-gain-weight
 date: 2022-02-13 12:15
 description: "How to gain weight in some specific areas by following a food or
   training schema. "
+featuredImage: /assets/gain-weight.jpg
 ---
 # How to Gain Weight – In Some Specific Areas 
 
