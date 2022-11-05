@@ -6,6 +6,7 @@ date: 2022-08-12 11:47
 description: High Intensive Interval Training is a popular training in
   Amsterdam. When walking around the parks you will see a lot of people sporting
   or jogging.
+featuredImage: /assets/hiit.jpg
 ---
 ## The Ultimate Guide to Your High Intensive Interval Training 
 
