@@ -1,12 +1,11 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Amsterdam Blogs
+tagline: Blogs vanuit Amsterdam
+featuredImage: /assets/banner.jpg
 cta:
-  ctaText: Know more
+  ctaText: Lees Verder
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Amsterdam blogs is een site met blogs die te maken hebben met Amsterdam. De blog posts zijn geschreven door mensen die in de stad wonen, of de stad hebben bezocht en hun verhalen willen delen.
