@@ -9,6 +9,6 @@ Amsterdam blogs is een site met blogs die te maken hebben met Amsterdam. De blog
 
 Amsterdam blogs is een internationale blog site met een focus op Amsterdam. We bloggen sinds kort en de site wordt dagelijks geüpdatet met verse content over de stad Amsterdam, inclusief Sport, restaurants, bedrijfsleven en meer.
 
-Veel leesplezier en indien u feedback heeft of blogs wil schrijven voor amsterdamblogs dan kunt u via de [contact](https://www.adamblogs.nl/contact/) pagina contact met ons opnemen.
+Veel leesplezier en indien u feedback heeft of blogs wil schrijven voor adamblogs.nl dan kunt u via de [contact](/contact) pagina contact met ons opnemen.
 
 ![]()
