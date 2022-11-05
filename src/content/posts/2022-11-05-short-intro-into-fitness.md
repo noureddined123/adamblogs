@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Short Intro into Fitness
-slug: short-intro-into-fitness
+slug: /short-intro-into-fitness
 date: 2022-08-08 11:54
 description: Short introduction into fitness.
 ---
