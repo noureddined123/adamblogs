@@ -6,6 +6,7 @@ date: 2022-11-05 12:12
 description: How to lose weight in Amsterdam? There are many options, some
   people lose weight in the gym, some by paying attention to their food and some
   are taking major steps in the hospital.
+featuredImage: /assets/lose-weight.jpg
 ---
 # Everything you need to know about how to lose weight?
 
