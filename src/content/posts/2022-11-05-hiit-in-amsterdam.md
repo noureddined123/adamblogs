@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: HIIT in Amsterdam
-slug: hiit-in-amsterdam
+slug: /hiit-in-amsterdam
 date: 2022-08-12 11:47
 description: High Intensive Interval Training is a popular training in
   Amsterdam. When walking around the parks you will see a lot of people sporting
