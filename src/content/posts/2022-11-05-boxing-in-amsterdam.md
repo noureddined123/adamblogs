@@ -5,6 +5,7 @@ slug: /boxing-in-amsterdam
 date: 2022-11-05 11:38
 description: Boxing classes in Amsterdam. The famous city of boxing legends.
   Private and Public boxing schools available.
+featuredImage: /assets/boxing.jpg
 ---
 ## A Brief Guide on Boxing & its Advantages
 
