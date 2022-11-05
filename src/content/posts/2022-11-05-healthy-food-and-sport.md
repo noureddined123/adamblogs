@@ -6,6 +6,7 @@ date: 2022-08-01 11:57
 description: In sports, the diet of a sportsperson is significant as it affects
   the overall performance of the sportsperson. A healthy diet will help the
   sportsperson.
+featuredImage: /assets/healthy-food.jpg
 ---
 # Understand the relationship between Food and sport
 
