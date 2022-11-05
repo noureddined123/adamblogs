@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "Kickboxing in Amsterdam "
-slug: kickboxing-in-amsterdam
+slug: /kickboxing-in-amsterdam
 date: 2022-11-07 11:40
 description: Amsterdam is know of its high talented kickboxers. All over the
   world they know that Amsterdam is the kickboxing city with the best fighters.
